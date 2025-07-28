@@ -106,11 +106,7 @@ java mypack.Main
 
 ---
 
-## 📸 Screenshots
 
-*(Optional: Add screenshots of terminal output, DB tables, etc.)*
-
----
 
 ## 🤝 Contributing
 
@@ -118,11 +114,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-## 📝 License
 
-This project is open source and free to use under the [MIT License](LICENSE).
-
-```
 
 ---
 
